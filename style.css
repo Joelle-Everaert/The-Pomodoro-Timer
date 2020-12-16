@@ -20,12 +20,12 @@
     flex-direction: column;
 }
 
-.timer_pomodoro{
+/* .timer_pomodoro{
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-}
+} */
 
 .container{
         height: 80vh;
