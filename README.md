@@ -19,9 +19,10 @@ Putting our knowledge and cohesion into practice through teamwork.
 
 ## Improvement
 Make the project "pretty"
+change totally design 
 
 ## Overview 
-[![little overview](Overview.png)]()
+[![little overview](Overview.png)](https://joelle-everaert.github.io/The-Pomodoro-Timer/)
 
 ### Original instruction
 
