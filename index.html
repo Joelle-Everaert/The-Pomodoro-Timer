@@ -4,33 +4,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="favicon.ico" type="image/png" />
+    <link href="https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Projet 2</title>
+    <title>Pomodoro Timer</title>
 </head>
 
 <body>
     <main>
+        <h1>Pomodoro Timer</h1>
         <div class="explain_the_rules">
-            <p>The rules of the Pomodoro timer are very simple. 
-                You work for 25 minutes, then you have a 5min break after 4 laps you have the right to a 15min break. 
+            <p id="explain_pomodoro">The rules of the Pomodoro timer are very simple.
+                You work for 25 minutes, then you have a 5min break after 4 cycles you have the right to a 15min break.
                 Take the opportunity to make yourself a coffee and walk around a bit.</p>
-        </div>
-    </main>
-        <div class="container">
-            <p class="time">25 : 00</p>
-            <p class="motivation">Good luck for your work !</p>
-            <p class="pause"> 5:00</p>
-            <p class="tour_break"></p>
-            <p class="break_pause">15:00</p>
+                <img src="/tomato.png" alt="tomato">
+            </div>
+    
+    <div class="container">
+    <div class="container_left">
+        <p class="time">25 : 00</p>
         <div class="button">
             <button class="start">START</button>
             <button class="stop">PAUSE</button>
             <button class="reset">RESET</button>
         </div>
-        </div>
-   
-
-
+    </div>
+    <div class="container_right">
+        <p class="pause"> Short break:  5:00</p>
+        <p class="tour_break"></p>
+        <p class="break_pause">Long break : 15:00</p>
+    </div>
+</div>
+</main>
+<footer>Made by Joelle Everaert during my training at BeCode</footer>
     <script src="./script.js"></script>
 </body>
 

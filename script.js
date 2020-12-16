@@ -10,7 +10,7 @@ const tour_break = document.querySelector('.tour_break')
 
 let tour = 0;
 const tour_pomodoro = setInterval(function(){
-    tour_break.innerHTML= "Break tour : " + tour
+    tour_break.innerHTML= "Cycle : " + tour
 }, 1000)
 
 // Decompte des 25min////
@@ -21,7 +21,6 @@ let sec2 = 300
 let min2;
 let sec3 = 900;
 let min3;
-
 
 
 const start_timer = () => {

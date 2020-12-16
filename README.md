@@ -1,13 +1,13 @@
-# The markdown editor
+# Pomodoro Timer
 
 * Solo project made by me [Joelle Everaert](https://github.com/Joelle-Everaert)
-* Date : 15/12/2020
+* Date : 16/12/2020
 ## What is this ?
 It is a solo work as part of my training at **[BeCode](https://becode.org)**. <br>
 
 ## Context  
-As part of our training, we finish the front end with 4 different projects. This is the project 1. <br>
-We had to create a markdown editor that transforms the tags specific to this language into HTML tags.
+As part of our training, we finish the front end with 4 different projects. This is the project 2. <br>
+We had to create a pomodoro timer. 
 
 ## Purpose?
 Putting our knowledge and cohesion into practice through teamwork.
@@ -21,7 +21,7 @@ Putting our knowledge and cohesion into practice through teamwork.
 Make the project "pretty"
 
 ## Overview 
-[![little overview](Overview.png)](https://joelle-everaert.github.io/Markdown-Editor/)
+[![little overview](Overview.png)]()
 
 ### Original instruction
 
