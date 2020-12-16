@@ -1,0 +1,37 @@
+
+.setting{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.timer {
+    display: flex;
+    flex-direction: column;
+}
+
+.timer2{
+    display: flex;
+    flex-direction: column;
+}
+
+.timer3{
+    display: flex;
+    flex-direction: column;
+}
+
+.timer_pomodoro{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+        height: 80vh;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
